@@ -46,7 +46,7 @@ In your controller
 
 ```php
 $panels = Fbf\LaravelCarousel\Panel::getData();
-return View::make('home')->with(compact('download', 'panels'));
+return View::make('home')->with(compact('panels'));
 ```
 
 In your blade template:
