@@ -57,8 +57,8 @@ In your blade template:
 
 ## Administrator
 
-You can use the excellent Laravel Administrator package by frozennode to administer your images.
+You can use the excellent Laravel Administrator package by frozennode to administer your carousel.
 
 http://administrator.frozennode.com/docs/installation
 
-A ready-to-use model config file for the Download model (downloads.php) is provided in the src/config/administrator directory of the package, which you can copy into the app/config/administrator directory (or whatever you set as the model_config_path in the administrator config file).
+A ready-to-use model config file for the Panel model (carousel_panels.php) is provided in the src/config/administrator directory of the package, which you can copy into the app/config/administrator directory (or whatever you set as the model_config_path in the administrator config file).
